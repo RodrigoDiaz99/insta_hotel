@@ -1,0 +1,4 @@
+body.front {
+    background-image: url("{{ asset('images/front-bg.jpg') }}");
+    background-size: 100%;
+}

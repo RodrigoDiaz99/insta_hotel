@@ -1,0 +1,25 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+.cloud_storage
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/storage
+
+.DS_Store
+/.vscode
+.zip
+.sql
+/sistema-easy-motel
+project.zip
+/easyp128
+.env1
+.env original
+sistema-easy-motel.zip
